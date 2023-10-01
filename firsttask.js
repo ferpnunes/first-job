@@ -64,3 +64,4 @@ function sum3(skaiciusvienas, skaiciusdu) {
 const sum2 = () => {
 
 }
+// QWEQWEQWE
